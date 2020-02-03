@@ -3,3 +3,98 @@
 {% include_relative type.css %}
 {% include_relative theme.css %}
 {% pattern_css %}
+
+html {
+  font-family: "poynter-gothic-text", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h1   {
+  color: #fff;
+  text-shadow: 2px 2px #228996;
+}
+
+h2 {
+  color:#228996;
+  text-shadow: 2px 2px #fff;
+}
+
+h3 {
+  font-family: "operetta-12", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+
+
+
+font-family: poynter-gothic-text, sans-serif;
+
+font-weight: 400;
+
+font-style: normal;
+
+
+PoynterGothicText Italic
+
+font-family: poynter-gothic-text, sans-serif;
+
+font-weight: 400;
+
+font-style: italic;
+
+
+PoynterGothicText Bold Italic
+
+font-family: poynter-gothic-text, sans-serif;
+
+font-weight: 700;
+
+font-style: italic;
+
+
+PoynterGothicText Bold
+
+font-family: poynter-gothic-text, sans-serif;
+
+font-weight: 700;
+
+font-style: normal;
+
+
+PoynterGothicTextCond Regular
+
+font-family: poynter-gothic-text-condense, sans-serif;
+
+font-weight: 400;
+
+font-style: normal;
+
+
+PoynterGothicTextCond Italic
+
+font-family: poynter-gothic-text-condense, sans-serif;
+
+font-weight: 400;
+
+font-style: italic;
+
+
+PoynterGothicTextCond Bold
+
+font-family: poynter-gothic-text-condense, sans-serif;
+
+font-weight: 700;
+
+font-style: normal;
+
+
+PoynterGothicTextCond Bold Italic
+
+font-family: poynter-gothic-text-condense, sans-serif;
+
+font-weight: 700;
+
+font-style: italic;
