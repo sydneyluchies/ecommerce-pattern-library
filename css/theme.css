@@ -7,7 +7,7 @@
   --color-whatever: peachpuff;
 
   --font-primary: "Alegreya Sans", "Trebuchet MS", Arial, sans-serif;
-  --font-secondary: "Source Code Pro", Menlo, Consolas, monospace;
+  --font-secondary: "operetta-12", Menlo, Consolas, monospace;
 
 html {
   font-family: var(--font-primary);
