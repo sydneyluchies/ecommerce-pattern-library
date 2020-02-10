@@ -8,16 +8,17 @@
 
   --font-primary: "Alegreya Sans", "Trebuchet MS", Arial, sans-serif;
   --font-secondary: "operetta-12", Menlo, Consolas, monospace;
+}
 
 html {
   font-family: var(--font-primary);
 }
 
-.heading h1   {
+h1  {
   color: #228996;
   text-shadow: 2px 2px #fff;
 }
 
-.heading h2 {
+h2 {
   color:#228996;
 }
