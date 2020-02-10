@@ -19,16 +19,19 @@ h1  {
   text-shadow: 2px 2px #fff;
   font-style: normal;
   font-weight: bold;
+  text-transform: uppercase;
 }
 
 h2 {
   color:#228996;
   font-weight: bold;
+  text-transform: uppercase;
 }
 
 ol {
   color: ##9A9B9D;
   font-weight: lighter;
+  text-transform: uppercase;
 }
 
 
