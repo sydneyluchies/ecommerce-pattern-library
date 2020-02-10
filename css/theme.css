@@ -13,11 +13,11 @@ html {
   font-family: var(--font-primary);
 }
 
-headings h1   {
+.heading h1   {
   color: #228996;
   text-shadow: 2px 2px #fff;
 }
 
- headings h2 {
+.heading h2 {
   color:#228996;
 }
