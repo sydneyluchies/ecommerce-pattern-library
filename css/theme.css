@@ -7,7 +7,7 @@
   --color-whatever: #673D28;
 
   --font-primary: "Alegreya Sans", "Trebuchet MS", Arial, sans-serif;
-  --font-secondary: "linotype-didot serif", Menlo, Consolas, monospace;
+  --font-secondary: "Georgia", Menlo, Consolas, monospace;
 }
 
 html {
@@ -35,7 +35,7 @@ ol {
 }
 
 h3 {
-  font-family:"linotype-didot, serif";
+  font-family:"Georia";
   color:#228996;
   font-weight: bold;
   text-transform: uppercase;
