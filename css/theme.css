@@ -1,7 +1,7 @@
 :root {
   --color-primary: #228996;
-  --color-primary-light: #707070;
-  --color-secondary: #9A9B9D;
+  --color-primary-light: #9A9B9D;
+  --color-secondary: #707070;
   --color-accent: #fff;
   --color-neutral-beige: #e2e2e2;
   --color-whatever: #673D28;
@@ -14,11 +14,10 @@ html {
 }
 
 h1   {
-  color: #fff;
-  text-shadow: 2px 2px #228996;
+  color: #228996;
+  text-shadow: 2px 2px #fff;
 }
 
 h2 {
   color:#228996;
-  text-shadow: 2px 2px #fff;
 }
