@@ -23,7 +23,7 @@ h1  {
 }
 
 h2 {
-  color:#228996;
+  color:#707070;
   font-weight: bold;
   text-transform: uppercase;
 }
@@ -64,8 +64,13 @@ ul {
   text-transform: uppercase;
 }
 
-dl {
-  color: #9A9B9D;
-  font-weight: Normal;
+dt {
+  color: #228996;
+  font-weight: bold;
   text-transform: uppercase;
+}
+
+dd {
+  color: #9A9B9D;
+  font-weight: normal;
 }
