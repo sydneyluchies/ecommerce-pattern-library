@@ -57,3 +57,15 @@ ol {
   font-weight: lighter;
   text-transform: uppercase;
 }
+
+ul {
+  color: #9A9B9D;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+dl {
+  color: #9A9B9D;
+  font-weight: Normal;
+  text-transform: uppercase;
+}
