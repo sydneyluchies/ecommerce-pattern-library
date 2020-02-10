@@ -7,7 +7,7 @@
   --color-whatever: #673D28;
 
   --font-primary: "Alegreya Sans", "Trebuchet MS", Arial, sans-serif;
-  --font-secondary: "operetta-12", Menlo, Consolas, monospace;
+  --font-secondary: "linotype-didot, serif", Menlo, Consolas, monospace;
 }
 
 html {
@@ -17,8 +17,15 @@ html {
 h1  {
   color: #228996;
   text-shadow: 2px 2px #fff;
+  font-style: normal;
+  font-weight: bold;
 }
 
 h2 {
   color:#228996;
+  font-weight: bold;
+}
+
+ol {
+  font-family:
 }
