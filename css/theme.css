@@ -34,5 +34,19 @@ ol {
   text-transform: uppercase;
 }
 
+h3 {
+  font-family:"linotype-didot, serif";
+  color:#228996;
+  font-weight: bold;
+  text-transform: uppercase;
+}
 
-font-family:"linotype-didot, serif";
+h4 {
+  font-family:"Alegreya Sans";
+  color:#707070;
+}
+
+h5 {
+  font-family:"Alegreya Sans";
+  color:#9A9B9D;
+}
