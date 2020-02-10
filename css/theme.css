@@ -6,7 +6,7 @@
   --color-neutral-beige: #e2e2e2;
   --color-whatever: #673D28;
 
-  --font-primary: "Alegreya Sans", "Trebuchet MS", Arial, sans-serif;
+  --font-primary: "Proxima Nova", "Trebuchet MS", Arial, sans-serif;
   --font-secondary: "Georgia", Menlo, Consolas, monospace;
 }
 
@@ -42,11 +42,11 @@ h3 {
 }
 
 h4 {
-  font-family:"Alegreya Sans";
+  font-family:"Proxima Nova";
   color:#707070;
 }
 
 h5 {
-  font-family:"Alegreya Sans";
+  font-family:"Proxima Nova";
   color:#9A9B9D;
 }
