@@ -5,9 +5,13 @@
 {% pattern_css %}
 
 html {
-  font-family: "poynter-gothic-text", sans-serif;
+  font-family: "Alegreya Sans", sans-serif;
   font-weight: 400;
   font-style: normal;
+}
+
+nav {
+
 }
 
 h1   {
