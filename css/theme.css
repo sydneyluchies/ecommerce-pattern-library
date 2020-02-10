@@ -52,8 +52,8 @@ h5 {
   font-weight: bold;
 }
 
-h5 {
+h6 {
   font-family:"Proxima Nova";
   color:#9A9B9D;
-
+  font-weight: normal;
 }
