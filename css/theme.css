@@ -74,3 +74,44 @@ dd {
   color: #9A9B9D;
   font-weight: normal;
 }
+
+a {
+  text-decoration: none;
+  color: #228996;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+blockquote {
+  font-family:"Georgia";
+  color: #228996;
+  font-weight: normal;
+}
+
+cite {
+  font-family:"Georgia";
+  color: #9A9B9D;
+  font-weight: normal;
+}
+
+em {
+  font-weight: bold;
+}
+
+strong {
+  font-weight: bold;
+  color: #673D28;
+}
+
+dfn {
+  font-weight: normal;
+  color: #673D28;
+}
+
+i {
+  font-style: italic;
+}
+
+b {
+  font-weight: bold;
+}
