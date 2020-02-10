@@ -62,6 +62,7 @@ ul {
   color: #9A9B9D;
   font-weight: bold;
   text-transform: uppercase;
+  text-decoration: none;
 }
 
 dt {
@@ -114,4 +115,13 @@ i {
 
 b {
   font-weight: bold;
+}
+
+ins {
+  text-transform: uppercase;
+  color: #9A9B9D;
+}
+
+mark {
+  background-color: #25E8F2;
 }
