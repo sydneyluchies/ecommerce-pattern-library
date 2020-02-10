@@ -1,2 +1,14 @@
 permalink: pretty
 theme: jekyll_patternbot
+patternbot:
+  title: "Coffee & Tea Essentials"
+  description: The coffee is good.
+rationales:
+  typefaces.primary:
+    Was chosen because it matches my serif, georgia.
+  typefaces.secondary:
+    Was chosen beacause goergia is clean, bold, and easy to read.
+  colors.primary:
+    Was chosen because it's easy on the eyes and a very elegant colour.
+  colors.secondary:
+    Was chosen because it's neutral and goes with primary colour.
