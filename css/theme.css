@@ -1,10 +1,10 @@
 :root {
   --color-primary: #228996;
-  --color-primary-light: gold;
-  --color-secondary: light coral;
-  --color-accent: greenyellow;
+  --color-primary-light: #707070;
+  --color-secondary: #9A9B9D;
+  --color-accent: #fff;
   --color-neutral-beige: #e2e2e2;
-  --color-whatever: peachpuff;
+  --color-whatever: #673D28;
 
   --font-primary: "Alegreya Sans", "Trebuchet MS", Arial, sans-serif;
   --font-secondary: "operetta-12", Menlo, Consolas, monospace;
