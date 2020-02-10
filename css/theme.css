@@ -28,32 +28,32 @@ h2 {
   text-transform: uppercase;
 }
 
-ol {
-  color: ##9A9B9D;
-  font-weight: lighter;
-  text-transform: uppercase;
+h3 {
+  color:#228996;
+  font-weight: bold;
 }
 
-h3 {
-  font-family:"Georia";
+h4 {
+  color:#707070;
+    font-weight: bold;
+}
+
+h5 {
+  font-family:"Georgia";
   color:#228996;
   font-weight: bold;
   text-transform: uppercase;
 }
 
-h4 {
-  font-family:"Proxima Nova";
-  color:#707070;
-}
-
-h5 {
-  font-family:"Proxima Nova";
-  color:#9A9B9D;
-  font-weight: bold;
-}
-
 h6 {
-  font-family:"Proxima Nova";
+  font-family:"Georgia";
   color:#9A9B9D;
   font-weight: normal;
+}
+
+
+ol {
+  color: ##9A9B9D;
+  font-weight: lighter;
+  text-transform: uppercase;
 }
