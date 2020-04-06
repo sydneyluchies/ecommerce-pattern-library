@@ -13,13 +13,3 @@ patterns:
     description: |
       The ghost button is specifically for banners, where it will be placed in front of busy images.
     background: "--color-primary-light"
-      basic-small:
-        title: "Basic-small"
-        description: |
-          Default to using the basic button. It should always be used in front of light backgrounds.
-        width: "12em"
-      ghost-small:
-        title: "Ghost-small"
-        description: |
-          The ghost button is specifically for banners, where it will be placed in front of busy images.
-        background: "--color-primary-light"
