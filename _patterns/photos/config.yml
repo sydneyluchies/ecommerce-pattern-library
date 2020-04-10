@@ -7,3 +7,7 @@ patterns:
     title: "Photo Array"
     description: |
       Photo arrays: how will you arrange the different photos for each product?
+  photo-carousel:
+    title: "Photo Carousel"
+    description: |
+      Photo carousel: To add some fun.
