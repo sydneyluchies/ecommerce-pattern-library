@@ -1,0 +1,9 @@
+title: "Footer"
+description: |
+  Banners: top of page banners, call to action banners, sectional banners with large graphics
+
+patterns:
+  footer:
+    title: "Footer"
+    description: |
+      Default to using the basic button. It should always be used in front of light backgrounds.
