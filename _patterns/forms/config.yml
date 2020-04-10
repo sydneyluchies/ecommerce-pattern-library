@@ -1,0 +1,21 @@
+title: "Forms"
+description: |
+  Banners: top of page banners, call to action banners, sectional banners with large graphics
+
+patterns:
+  billing-form:
+    title: "Billing Form"
+    description: |
+      Default to using the basic button. It should always be used in front of light backgrounds.
+  shipping-form:
+    title: "Shipping Form"
+    description: |
+      The ghost button is specifically for banners, where it will be placed in front of busy images.
+  member-form:
+    title: "Member Form"
+    description: |
+      The ghost button is specifically for banners, where it will be placed in front of busy images.
+  promo-code:
+    title: "Promo Code"
+    description: |
+      The ghost button is specifically for banners, where it will be placed in front of busy images.
