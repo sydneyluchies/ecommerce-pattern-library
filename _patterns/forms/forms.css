@@ -1,18 +1,18 @@
-.forms, .is-validated input:invalid, .is-validated input[type="checkbox"]:invalid + label::before, .is-validated:invalid, .is-validated[type="checkbox"]:invalid + label::before {
+.forms .is-validated input:invalid, .is-validated input[type="checkbox"]:invalid + label::before, .is-validated:invalid, .is-validated[type="checkbox"]:invalid + label::before {
   border-color: #f33;
 }
 
-.forms, .error-message {
+.forms .error-message {
   display: none;
   background-color: #fee;
   color: #c33;
 }
 
-.forms, .error-message-highlighted {
+.forms .error-message-highlighted {
   background-color: #c33;
   color: #fff;
 }
 
-.forms, .is-validated > .error-message:first-child, .is-validated input:invalid + .error-message, .is-validated input:invalid + label + .error-message, .is-validated:invalid + .error-message, .is-validated:invalid + label + .error-message {
+.forms .is-validated > .error-message:first-child, .is-validated input:invalid + .error-message, .is-validated input:invalid + label + .error-message, .is-validated:invalid + .error-message, .is-validated:invalid + label + .error-message {
   display: block;
 }
