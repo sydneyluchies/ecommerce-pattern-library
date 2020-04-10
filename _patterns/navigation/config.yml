@@ -1,9 +1,0 @@
-title: "Navigation"
-description: |
-  Banners: top of page banners, call to action banners, sectional banners with large graphics
-
-patterns:
-  nav:
-    title: "Navigation"
-    description: |
-      Default to using the basic button. It should always be used in front of light backgrounds.
