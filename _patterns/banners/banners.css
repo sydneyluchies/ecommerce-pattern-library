@@ -29,15 +29,15 @@
    height: 25em;
    overflow: hidden;
    margin: 0;
-   top: 50%;
-   left: 50%;
-   transform: translate(-50%, -50%);
 }
 
 .flex-sectional {
   width: 25em;
   overflow: hidden;
   margin: 0;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
 
 .flex .image-flex{
