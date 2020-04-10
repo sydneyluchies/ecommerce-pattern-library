@@ -1,0 +1,17 @@
+title: "Banners"
+description: |
+  Banners: top of page banners, call to action banners, sectional banners with large graphics
+
+patterns:
+  sectional:
+    title: "Sectional"
+    description: |
+      Default to using the basic button. It should always be used in front of light backgrounds.
+  top-of-page:
+    title: "Top of Page"
+    description: |
+      The ghost button is specifically for banners, where it will be placed in front of busy images.
+  call-to-action:
+    title: "Call to Action"
+    description: |
+      The ghost button is specifically for banners, where it will be placed in front of busy images.
