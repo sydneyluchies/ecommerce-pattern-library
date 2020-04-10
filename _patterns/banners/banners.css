@@ -10,6 +10,13 @@ div#banner-content {
   margin: 0 auto;
 }
 
+h1 {
+  text-align: center;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
 .bnr {
   background-color: var(--color-neutral-beige);
   text-align: center;
