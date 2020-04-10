@@ -9,6 +9,19 @@
   color: var(--color-accent);
 }
 
+.btn-icon {
+  background-color: var(--color-accent);
+  border-color: var(--color-primary);
+  border-width: thick;
+  border-style: outset;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 8px;
+  color: var(--color-primary);
+}
+
 .btn:hover {
   background-color: var(--color-secondary);
   border-color: var(--color-primary);
