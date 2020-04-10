@@ -2,5 +2,8 @@
   background-color: var(--color-primary-light);
   text-align: center;
   color: white;
-  padding: 3em;
+  padding-top: .2em;
+  padding-bottom: .2em;
+  padding-right: 5em;
+  padding-left: 5em;
 }
