@@ -1,21 +1,21 @@
 title: "Cards"
 description: |
-  Buttons should be used in situations where a dramatic, obvious action is required. Try not to over use buttons because they should be the primary call-to-action for a screen.
+  Cards: image card, icon card, basic card, product info card, etc.
 
 patterns:
   image-card:
     title: "Image Card"
     description: |
-      Default to using the basic button. It should always be used in front of light backgrounds.
+      This is a card where the image is more prominent then the text. Used to show off images of the store, staff, or products.
   icon-card:
     title: "Icon Card"
     description: |
-      The ghost button is specifically for banners, where it will be placed in front of busy images.
+      The icon card is used to show viewers the social media areas the company can be found in.
   product-info-card:
     title: "Product Info Card"
     description: |
-      The icon button allows an icon to be seen for the action required.
+      The product info card is a great use of images, icons, and text all in one. Where you see the image of the product, text explaining it, and icons showing rating and availability to shop.
   basic-card:
     title: "Basic Card"
     description: |
-      The icon button allows an icon to be seen for the action required.
+      The basic card only includes image and text; pretty standard.
