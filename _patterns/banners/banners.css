@@ -30,7 +30,16 @@
    overflow: hidden;
    margin: 0;
 }
+
+.flex {
+   height: 25em;
+   width: 10em;
+   overflow: hidden;
+   margin: 0;
+}
+
 .flex .image-flex{
    display: block;
    height: 100%;
+   width: 100%;
 }
