@@ -9,3 +9,6 @@
 .nav-3{
   float: right;
 }
+.nav-1 {
+  background-color: var(--color-whatever)
+}
