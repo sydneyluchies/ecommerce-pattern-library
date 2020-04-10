@@ -1,19 +1,21 @@
-title: "Buttons"
+title: "Cards"
 description: |
   Buttons should be used in situations where a dramatic, obvious action is required. Try not to over use buttons because they should be the primary call-to-action for a screen.
 
 patterns:
-  basic:
-    title: "Basic"
+  image-card:
+    title: "Image Card"
     description: |
       Default to using the basic button. It should always be used in front of light backgrounds.
-    width: "12em"
-  ghost:
-    title: "Ghost"
+  icon-card:
+    title: "Icon Card"
     description: |
       The ghost button is specifically for banners, where it will be placed in front of busy images.
-    background: "--color-primary-light"
-  icon-button:
-    title: "Icon Button"
+  product-info-card:
+    title: "Product Info Card"
+    description: |
+      The icon button allows an icon to be seen for the action required.
+  basic-card:
+    title: "Basic Card"
     description: |
       The icon button allows an icon to be seen for the action required.
