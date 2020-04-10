@@ -25,12 +25,12 @@
   color: white;
 }
 
-figure{
+.flex {
    height: 25em;
    overflow: hidden;
    margin: 0;
 }
-figure img{
+.flex .image-flex{
    display: block;
    height: 100%;
 }
