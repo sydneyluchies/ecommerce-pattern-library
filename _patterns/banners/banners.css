@@ -25,6 +25,12 @@
   color: white;
 }
 
-.img-flex {
-  max-height: 20em;
+figure{
+   height: 25em;
+   overflow: hidden;
+   margin: 0;
+}
+figure img{
+   display: block;
+   height: 100%;
 }
