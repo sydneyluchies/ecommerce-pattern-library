@@ -32,21 +32,13 @@
 }
 
 .flex-sectional {
-   height: 25em;
-   width: 10em;
-   overflow: hidden;
-   margin: 0;
+  height: 25em;
+  overflow: hidden;
+  margin: 0;
 }
 
 .flex .image-flex{
    display: block;
    height: 100%;
    width: 100%;
-}
-
-.sectional {
-  height: 25em;
-  width: 10em;
-  overflow: hidden;
-  margin: 0;
 }
