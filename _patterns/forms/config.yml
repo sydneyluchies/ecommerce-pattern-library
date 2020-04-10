@@ -1,21 +1,21 @@
 title: "Forms"
 description: |
-  Banners: top of page banners, call to action banners, sectional banners with large graphics
+  The following forms are required or handing for the cart page of a product website.
 
 patterns:
   billing-form:
     title: "Billing Form"
     description: |
-      Default to using the basic button. It should always be used in front of light backgrounds.
+      The billing form is for adding all viewers credit card information to buy their items in cart.
   shipping-form:
     title: "Shipping Form"
     description: |
-      The ghost button is specifically for banners, where it will be placed in front of busy images.
+      The shipping form is to get their address to ship their products in their cart to them.
   member-form:
     title: "Member Form"
     description: |
-      The ghost button is specifically for banners, where it will be placed in front of busy images.
+      The member form is for those that are apart of the membership program and can get discounts or special emails after a purchase.
   promo-code:
     title: "Promo Code"
     description: |
-      The ghost button is specifically for banners, where it will be placed in front of busy images.
+      The promo code is where viewers can place special code for sales, holidays, or discounts that are vaild.
