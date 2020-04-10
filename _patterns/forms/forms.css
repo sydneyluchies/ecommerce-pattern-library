@@ -16,37 +16,3 @@
 .forms .is-validated > .error-message:first-child, .is-validated input:invalid + .error-message, .is-validated input:invalid + label + .error-message, .is-validated:invalid + .error-message, .is-validated:invalid + label + .error-message {
   display: block;
 }
-
-fieldset {
-  padding: 0;
-}
-
-button {
-  position: relative;
-  left: 50%;
-  transform: translateX(-50%);
-}
-
-div .first-name {
-  float: left;
-}
-
-div .last-name {
-  float: right;
-}
-
-div .email {
-  float: left;
-}
-
-div .fit {
-  float: right;
-}
-
-@media only screen and (min-width: 60em) {
-
-  button:hover {
-    background-color: #f2f2f2;
-  }
-
-}
