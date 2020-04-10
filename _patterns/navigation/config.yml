@@ -11,3 +11,7 @@ patterns:
     title: "Log Out Navigation"
     description: |
       The top-of-page banner is good for quick descriptions, or company mottos that adds colour and depth.
+  pages-nav:
+    title: "Pages Navigation"
+    description: |
+      The top-of-page banner is good for quick descriptions, or company mottos that adds colour and depth.

@@ -1,0 +1,28 @@
+.nav-2 {
+  float: left;
+}
+
+.signin {
+  float: left;
+}
+
+.nav-3{
+  float: right;
+  padding-left: 1em;
+}
+
+.nav-4 {
+  display: inline-block;
+  padding-right: 1em;
+  text-align: center;
+}
+
+.nav-1{
+  position: absolute;
+  padding-top: 1em;
+  padding-bottom: 1em;
+  padding-left: 1em;
+  padding-right: 1em;
+  background-color: var(--color-whatever);
+  width: 100%;
+}
