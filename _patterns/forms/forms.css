@@ -16,3 +16,36 @@
 .forms .is-validated > .error-message:first-child, .is-validated input:invalid + .error-message, .is-validated input:invalid + label + .error-message, .is-validated:invalid + .error-message, .is-validated:invalid + label + .error-message {
   display: block;
 }
+
+.first-name{
+  float: left;
+}
+
+.last-name{
+  float: right;
+}
+
+.adress-one{
+  float: left;
+}
+
+.address-two{
+  float: right;
+}
+
+
+.address-city{
+  float: left;
+}
+
+.address-pc{
+  float: right;
+}
+
+.address-province{
+  float: left;
+}
+
+.address-country{
+  float: right;
+}
