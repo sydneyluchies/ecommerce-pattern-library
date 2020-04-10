@@ -1,5 +1,6 @@
 .bnr {
-  background-color: var(--color-primary);
+  background-color: var(--color-primary-light);
   text-align: center;
   color: white;
+  margin: 3em;
 }
