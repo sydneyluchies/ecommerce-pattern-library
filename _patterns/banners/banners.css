@@ -9,7 +9,7 @@
 }
 
 .call-image {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("images/coffee/cookie-1.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("/images/coffee/cookie-1.jpg");
   height: 50%;
   background-position: center;
   background-repeat: no-repeat;
