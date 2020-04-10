@@ -5,6 +5,7 @@
   text-align: center;
   display: inline-block;
   align-items: center;
+  justify-content: center;
 }
 
 .title {
