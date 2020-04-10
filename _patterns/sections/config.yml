@@ -1,0 +1,9 @@
+title: "Sections"
+description: |
+  Banners: top of page banners, call to action banners, sectional banners with large graphics.
+
+patterns:
+  profile-section:
+    title: "Profile Sections"
+    description: |
+      The top-of-page banner is good for quick descriptions, or company mottos that adds colour and depth.
