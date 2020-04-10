@@ -11,9 +11,7 @@ div#banner-content {
   padding: 10px;
   border: 1px solid #000;
 }
-div#main-content {
-  padding-top: 70px;
-}
+
 .bnr {
   background-color: var(--color-neutral-beige);
   text-align: center;
