@@ -1,17 +1,17 @@
 title: "Banners"
 description: |
-  Banners: top of page banners, call to action banners, sectional banners with large graphics
+  Banners: top of page banners, call to action banners, sectional banners with large graphics.
 
 patterns:
   sectional:
     title: "Sectional"
     description: |
-      Default to using the basic button. It should always be used in front of light backgrounds.
+      This can be used for ads or space beside text on a web browser page if there is too much blank space. Instead of having everything take up the whole length of the page add a bit of grid work with some smaller sectional banners.
   top-of-page:
     title: "Top of Page"
     description: |
-      The ghost button is specifically for banners, where it will be placed in front of busy images.
+      The top-of-page banner is good for quick descriptions, or company mottos that adds colour and depth.
   call-to-action:
     title: "Call to Action"
     description: |
-      The ghost button is specifically for banners, where it will be placed in front of busy images.
+      The call to action banner is to grad the viewers attention and is meant to get them to do something; click the button that is provided (for this one, the shop button).
