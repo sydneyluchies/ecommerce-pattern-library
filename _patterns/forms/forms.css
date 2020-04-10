@@ -27,11 +27,11 @@ button {
   transform: translateX(-50%);
 }
 
-div .name {
+div .first-name {
   float: left;
 }
 
-div .age {
+div .last-name {
   float: right;
 }
 
