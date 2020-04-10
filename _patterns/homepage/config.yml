@@ -1,0 +1,9 @@
+title: "Homepage"
+description: |
+  Banners: top of page banners, call to action banners, sectional banners with large graphics
+
+patterns:
+  homepage:
+    title: "Homepage"
+    description: |
+      Default to using the basic button. It should always be used in front of light backgrounds.
