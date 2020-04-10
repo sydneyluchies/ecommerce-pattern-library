@@ -14,7 +14,6 @@
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
-  max-height: 20em;
 }
 
 .call-text {
@@ -24,4 +23,8 @@
   left: 50%;
   transform: translate(-50%, -50%);
   color: white;
+}
+
+.img-flex {
+  max-height: 20em;
 }
