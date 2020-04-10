@@ -22,6 +22,11 @@
   color: var(--color-primary);
 }
 
+.btn-icon:hover {
+  background-color: var(--color-neutral-beige);
+  border-color: var(--color-primary);
+}
+
 .btn:hover {
   background-color: var(--color-secondary);
   border-color: var(--color-primary);
