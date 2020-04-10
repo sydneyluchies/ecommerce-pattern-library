@@ -12,8 +12,8 @@
 
 .nav-1{
   position: absolute;
-  top: 0;
-  left: 0;
+  padding-top: 2;
+  padding-left: 2;
   background-color: var(--color-whatever);
   width: 100%;
 }
