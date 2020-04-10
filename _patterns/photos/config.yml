@@ -1,0 +1,9 @@
+title: "Photos"
+description: |
+  Buttons should be used in situations where a dramatic, obvious action is required. Try not to over use buttons because they should be the primary call-to-action for a screen.
+
+patterns:
+  photo-array:
+    title: "Photo Array"
+    description: |
+      Default to using the basic button. It should always be used in front of light backgrounds.
