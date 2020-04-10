@@ -15,6 +15,7 @@
   text-align: center;
   display: inline-block;
   padding-right: 1em;
+  float: inherit;
 }
 
 .nav-1{
