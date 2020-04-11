@@ -44,30 +44,3 @@ button:hover, a:hover {
 .img-flex {
   width: 100%;
 }
-
-.carousel {
-  display: inline-block;
-}
-
-.carousel-items > div {
-  display: none;
-}
-
-.carousel-btn {
-  border: 4px solid #fff;
-  border-radius: 50%;
-}
-
-#coffee-1-control:checked ~ .carousel-inner [for="coffee-1-control"],
-#coffee-2-control:checked ~ .carousel-inner [for="coffee-2-control"],
-#cookie-1-control:checked ~ .carousel-inner [for="cookie-1-control"],
-#kona-control:checked ~ .carousel-inner [for="kona-control"] {
-  background-color: #fff;
-}
-
-#coffee-1-control:checked ~ .carousel-inner #coffee-1,
-#coffee-2-control:checked ~ .carousel-inner #coffee-2,
-#cookie-1-control:checked ~ .carousel-inner #cookie-1,
-#kona-control:checked ~ .carousel-inner #kona {
-  display: block;
-}
