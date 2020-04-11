@@ -45,6 +45,10 @@ button:hover, a:hover {
   width: 100%;
 }
 
+.carousel {
+  display: inline-block;
+}
+
 .carousel-items > div {
   display: none;
 }
