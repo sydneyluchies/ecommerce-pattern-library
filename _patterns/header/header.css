@@ -34,7 +34,7 @@ ul.topnav li.right {
 }
 
 li a:hover, .dropdown:hover .dropbtn {
-  background-color: var(--color-neutral-beige);
+  background-color: var(--color-secondary);
 }
 
 .dropdown-content {
