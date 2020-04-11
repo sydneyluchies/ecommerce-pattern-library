@@ -1,3 +1,7 @@
+.embed-item {
+  width: 100%;
+}
+
 .row {
   display: flex;
   flex-wrap: wrap;
