@@ -36,7 +36,6 @@
 
 .carousel-btn {
   border: 4px solid #fff;
-  border-radius: 50%;
 }
 
 #coffee-1-control:checked ~ .carousel-inner [for="coffee-1-control"],
