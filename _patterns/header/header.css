@@ -3,7 +3,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: var(--color-secondary);
+  background-color: var(--color-primary-light);
 }
 
 li {
@@ -24,7 +24,7 @@ li a {
 }
 
 li a:hover:not(.active) {
-  background-color: var(--color-secondary);
+  background-color: var(--color-primary-light);
 }
 
 .active {
