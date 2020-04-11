@@ -1,14 +1,14 @@
 title: "Sections"
 description: |
-  Banners: top of page banners, call to action banners, sectional banners with large graphics.
+  Sections are areas on the webiste where information, or images are kept in groups.
 
 patterns:
-  profile-section:
-    title: "Profile Sections"
+  info-section:
+    title: "Information Sections"
     description: |
-      The top-of-page banner is good for quick descriptions, or company mottos that adds colour and depth.
+      This is a section to break up the home page or any of the pages with interesting information about the webiste; in this case the staff members. Can be used to advertise products, events or the company.
 
   photo-section:
     title: "Photo Sections"
     description: |
-      The top-of-page banner is good for quick descriptions, or company mottos that adds colour and depth.
+      The photo section has no text but gives the viewers a break from reading and more room to recognize the colour and design of the website.
