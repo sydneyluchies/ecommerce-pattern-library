@@ -7,3 +7,8 @@ patterns:
     title: "Profile Sections"
     description: |
       The top-of-page banner is good for quick descriptions, or company mottos that adds colour and depth.
+
+  photo-section:
+    title: "Photo Sections"
+    description: |
+      The top-of-page banner is good for quick descriptions, or company mottos that adds colour and depth.
