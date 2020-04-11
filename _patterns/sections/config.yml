@@ -13,7 +13,7 @@ patterns:
     description: |
       The photo section has no text but gives the viewers a break from reading and more room to recognize the colour and design of the website.
 
-    text-section:
-      title: "Text Sections"
-      description: |
-        The text section has only text and had quick, simple and interesting facts about the webiste for the viewers. They need to stand out and allow the viewers to dive deeper into the site.
+  text-section:
+    title: "Text Sections"
+    description: |
+      The text section has only text and had quick, simple and interesting facts about the webiste for the viewers. They need to stand out and allow the viewers to dive deeper into the site.
