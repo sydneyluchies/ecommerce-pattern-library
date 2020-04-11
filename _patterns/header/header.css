@@ -11,6 +11,7 @@ ul {
   padding: 0;
   overflow: hidden;
   background-color: var(--color-primary-light);
+  font-family: var(--font-secondary);
 }
 
 li {
