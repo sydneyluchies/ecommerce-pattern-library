@@ -57,3 +57,19 @@ li.dropdown {
 .dropdown:hover .dropdown-content {
   display: block;
 }
+
+@media only screen and (min-width: 35em) {
+
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  li a {
+    display: block;
+    width: 60px;
+    background-color: #dddddd;
+  }
+
+}
