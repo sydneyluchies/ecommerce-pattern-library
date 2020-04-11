@@ -12,7 +12,7 @@ ul {
   overflow: hidden;
   background-color: var(--color-primary-light);
   font-family: var(--font-secondary);
-  font-size: 10pt;
+  font-size: 2pt;
 }
 
 li {
