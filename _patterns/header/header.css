@@ -1,3 +1,7 @@
+li {
+  text-decoration: none;
+}
+
 ul.topnav {
   list-style-type: none;
   margin: 0;
