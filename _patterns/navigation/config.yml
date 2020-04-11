@@ -1,16 +1,16 @@
 title: "Navigation"
 description: |
-  Banners: top of page banners, call to action banners, sectional banners with large graphics.
+  Secondary navigation is good for above or below header/main navigation (such as accounts informtion) and pages.
 
 patterns:
   top-of-page-nav:
     title: "Log In Navigation"
     description: |
-      The top-of-page banner is good for quick descriptions, or company mottos that adds colour and depth.
+      The Log In Navigation is good for extra information that doesnt belong on main nav (such as account settings).
   log-out-nav:
     title: "Log Out Navigation"
     description: |
-      The top-of-page banner is good for quick descriptions, or company mottos that adds colour and depth.
+      The Log out Navigation is good for extra information that doesnt belong on main nav (such as account settings).
   pages-nav:
     title: "Pages Navigation"
     description: |
