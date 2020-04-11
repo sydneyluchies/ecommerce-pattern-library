@@ -58,7 +58,7 @@ li.dropdown {
   display: block;
 }
 
-@media only screen and (min-width: 35em) {
+@media only screen and (max-width: 35em) {
 
   ul {
     list-style-type: none;
