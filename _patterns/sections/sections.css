@@ -4,8 +4,6 @@
   margin: auto;
   text-align: center;
   display: inline-block;
-  transform: translate(+50%, 0);
-  max-height: 10em;
 }
 
 .photo-card {
