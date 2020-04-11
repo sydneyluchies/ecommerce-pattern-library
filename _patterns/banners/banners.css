@@ -4,6 +4,7 @@ div#banner {
   left: 0;
   background-color: var(--color-neutral-beige);
   width: 100%;
+  text-align: center;
 }
 
 .top-page {
