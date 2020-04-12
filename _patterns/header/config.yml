@@ -11,7 +11,7 @@ patterns:
     title: "Header Banner"
     description: |
       Default to using the basic button. It should always be used in front of light backgrounds.
-  masthead:
+  header-masthead:
     title: "Masthead"
     description: |
       Default to using the basic button. It should always be used in front of light backgrounds.
