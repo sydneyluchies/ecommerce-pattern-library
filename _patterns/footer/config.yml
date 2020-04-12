@@ -1,9 +1,0 @@
-title: "Footer"
-description: |
-  The footer is at the bottom of the website/page with information and links to places on the webiste.
-
-patterns:
-  footer:
-    title: "Footer"
-    description: |
-      This is the footer that matches the design, colour, and information of this website.
