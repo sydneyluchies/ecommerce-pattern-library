@@ -11,7 +11,11 @@ patterns:
     title: "Header Banner"
     description: |
       Default to using the basic button. It should always be used in front of light backgrounds.
-  header-masterhead:
-    title: "Header Masterhead"
+  masterhead:
+    title: "Masterhead"
+    description: |
+      Default to using the basic button. It should always be used in front of light backgrounds.
+  header-nav-masterhead:
+    title: "Header Nav Masterhead"
     description: |
       Default to using the basic button. It should always be used in front of light backgrounds.
