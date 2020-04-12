@@ -8,14 +8,14 @@ patterns:
     description: |
       The header has all the pages for the webiste listed or in dropdown.
   header-banner:
-    title: "Header Navigation Masthead Banner"
+    title: "Header Navigation Banner"
     description: |
-      The header-naviagtion-masthead-banner inludes most of a home page: the main navigation, secondary navigation, masthead, and a banner.
+      The header-naviagtion--banner inludes most of a home page: the main navigation, secondary navigation, and a banner.
   header-masterhead:
     title: "Masthead"
     description: |
       The Masthead is where the text and logo appears at the top of the screen.
   header-2:
-    title: "Header Masthead"
+    title: "Header Nav"
     description: |
-      This is what the header and masthead looks like together.
+      This is what the header and secondary navigation looks like together.
