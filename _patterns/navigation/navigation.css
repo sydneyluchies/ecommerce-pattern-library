@@ -23,6 +23,6 @@
   padding-bottom: .3em;
   padding-left: .3em;
   padding-right: .3em;
-  background-color: var(--color-whatever);
+  background-color: var(--color-primary-light)
   width: 100%;
 }
