@@ -8,11 +8,11 @@ patterns:
     description: |
       The Log In Navigation is good for extra information that doesnt belong on main nav (such as account settings).
   header-nav:
-    title: "Header Navigation"
+    title: "Header Navigation Masthead Banner"
     description: |
       The Log out Navigation is good for extra information that doesnt belong on main nav (such as account settings).
   header-masthead:
-    title: "Header Masthead Banner"
+    title: "Header Masthead"
     description: |
       The page sections is good for webiste landings with more than one page (product page), this allows viewers the ability to easily go to the previous or next page.
   masthead:
