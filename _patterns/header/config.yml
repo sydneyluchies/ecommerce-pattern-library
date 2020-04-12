@@ -1,0 +1,17 @@
+title: "Header"
+description: |
+  Secondary navigation is good for above or below header/main navigation (such as accounts informtion) and pages.
+
+patterns:
+  header:
+    title: "Header"
+    description: |
+      The Log In Navigation is good for extra information that doesnt belong on main nav (such as account settings).
+  header-nav:
+    title: "Log Out Navigation"
+    description: |
+      The Log out Navigation is good for extra information that doesnt belong on main nav (such as account settings).
+  header-masthead:
+    title: "Header Masthead"
+    description: |
+      The page sections is good for webiste landings with more than one page (product page), this allows viewers the ability to easily go to the previous or next page.
