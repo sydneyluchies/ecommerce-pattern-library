@@ -90,6 +90,7 @@ div#banner-masthead {
   text-align: left;
   padding: 0;
   margin: 0;
+  color: var(--color-primary);
 }
 
 .masthead-logo {
