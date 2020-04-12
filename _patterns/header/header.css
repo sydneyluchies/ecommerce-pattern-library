@@ -70,7 +70,6 @@ li a:hover, .dropdown:hover .dropbtn {
 
 div#banner-masthead {
   display: block;
-  position: absolute;
   top: 0;
   left: 0;
   background-color: var(--color-neutral-beige);
