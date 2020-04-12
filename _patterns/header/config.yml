@@ -1,21 +1,21 @@
 title: "Header"
 description: |
-  Secondary navigation is good for above or below header/main navigation (such as accounts informtion) and pages.
+  The header is where you find the main nav and masthead.
 
 patterns:
   header:
     title: "Header"
     description: |
-      The Log In Navigation is good for extra information that doesnt belong on main nav (such as account settings).
+      The header has all the pages for the webiste listed or in dropdown.
   header-banner:
     title: "Header Navigation Masthead Banner"
     description: |
-      The Log out Navigation is good for extra information that doesnt belong on main nav (such as account settings).
+      The header-naviagtion-masthead-banner inludes most of a home page: the main navigation, secondary navigation, masthead, and a banner.
   header-masterhead:
     title: "Masthead"
     description: |
-      The page sections is good for webiste landings with more than one page (product page), this allows viewers the ability to easily go to the previous or next page.
+      The Masthead is where the text and logo appears at the top of the screen.
   header-2:
     title: "Header Masthead"
     description: |
-      The page sections is good for webiste landings with more than one page (product page), this allows viewers the ability to easily go to the previous or next page.
+      This is what the header and masthead looks like together.
