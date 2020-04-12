@@ -1,21 +1,21 @@
 title: "Header"
 description: |
-  Secondary navigation is good for above or below header/main navigation (such as accounts informtion) and pages.
+  Banners: top of page banners, call to action banners, sectional banners with large graphics
 
 patterns:
   header:
     title: "Header"
     description: |
-      The Log In Navigation is good for extra information that doesnt belong on main nav (such as account settings).
-  header-nav:
-    title: "Header Navigation Masthead Banner"
+      Default to using the basic button. It should always be used in front of light backgrounds.
+  header-banner:
+    title: "Header Banner"
     description: |
-      The Log out Navigation is good for extra information that doesnt belong on main nav (such as account settings).
+      Default to using the basic button. It should always be used in front of light backgrounds.
   header-masthead:
-    title: "Header Masthead"
-    description: |
-      The page sections is good for webiste landings with more than one page (product page), this allows viewers the ability to easily go to the previous or next page.
-  masthead:
     title: "Masthead"
     description: |
-      The page sections is good for webiste landings with more than one page (product page), this allows viewers the ability to easily go to the previous or next page.
+      Default to using the basic button. It should always be used in front of light backgrounds.
+  header-nav-masthead:
+    title: "Header Nav Masthead"
+    description: |
+      Default to using the basic button. It should always be used in front of light backgrounds.
