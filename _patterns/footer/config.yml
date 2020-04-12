@@ -1,9 +1,9 @@
 title: "Footer"
 description: |
-  Banners: top of page banners, call to action banners, sectional banners with large graphics
+  The footer is at the bottom of the website/page with information and links to places on the webiste.
 
 patterns:
   footer:
     title: "Footer"
     description: |
-      Default to using the basic button. It should always be used in front of light backgrounds.
+      This is the footer that matches the design, colour, and information of this website.
