@@ -1,0 +1,21 @@
+title: "Header"
+description: |
+  Banners: top of page banners, call to action banners, sectional banners with large graphics
+
+patterns:
+  header:
+    title: "Header"
+    description: |
+      Default to using the basic button. It should always be used in front of light backgrounds.
+  header-banner:
+    title: "Header Banner"
+    description: |
+      Default to using the basic button. It should always be used in front of light backgrounds.
+  header-masthead:
+    title: "Masthead"
+    description: |
+      Default to using the basic button. It should always be used in front of light backgrounds.
+  header-nav-masthead:
+    title: "Header Nav Masthead"
+    description: |
+      Default to using the basic button. It should always be used in front of light backgrounds.
