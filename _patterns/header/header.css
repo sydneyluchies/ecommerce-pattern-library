@@ -69,7 +69,7 @@ li a:hover, .dropdown:hover .dropbtn {
 
 
 div#banner-masthead {
-  margin-left: 1em;
+  padding-left: 1em;
   display: block;
   position: absolute;
   top: 0;
