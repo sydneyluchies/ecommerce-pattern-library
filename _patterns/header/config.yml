@@ -8,7 +8,7 @@ patterns:
     description: |
       The Log In Navigation is good for extra information that doesnt belong on main nav (such as account settings).
   header-nav:
-    title: "Log Out Navigation"
+    title: "Header Navigation"
     description: |
       The Log out Navigation is good for extra information that doesnt belong on main nav (such as account settings).
   header-masthead:
