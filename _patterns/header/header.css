@@ -67,7 +67,7 @@ li a:hover, .dropdown:hover .dropbtn {
 }
 
 
-.banner-masthead {
+div#banner-masthead {
   padding-left: 1em;
   display: block;
   position: absolute;
