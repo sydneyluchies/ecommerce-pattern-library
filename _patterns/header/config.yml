@@ -7,3 +7,11 @@ patterns:
     title: "Header"
     description: |
       Default to using the basic button. It should always be used in front of light backgrounds.
+  header-banner:
+    title: "Header Banner"
+    description: |
+      Default to using the basic button. It should always be used in front of light backgrounds.
+  header-masterhead:
+    title: "Header Masterhead"
+    description: |
+      Default to using the basic button. It should always be used in front of light backgrounds.
