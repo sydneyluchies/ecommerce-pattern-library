@@ -87,6 +87,7 @@ div#banner-masthead {
 .masthead-text {
   max-width: 10em;
   float: left;
+  text-align: left;
 }
 
 .masthead-logo {
