@@ -12,10 +12,10 @@ patterns:
     description: |
       The Log out Navigation is good for extra information that doesnt belong on main nav (such as account settings).
   header-masterhead:
-    title: "Header Masthead"
+    title: "Masthead"
     description: |
       The page sections is good for webiste landings with more than one page (product page), this allows viewers the ability to easily go to the previous or next page.
   header-2:
-    title: "Masthead"
+    title: "Header Masthead"
     description: |
       The page sections is good for webiste landings with more than one page (product page), this allows viewers the ability to easily go to the previous or next page.
