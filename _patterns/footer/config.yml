@@ -1,0 +1,8 @@
+title: "Footer"
+description: |
+  Banners:the footer belongs at the bottom of the website and has easy access to links and information.
+
+patterns:
+  footer:
+    title: "Footer"
+    description: |
