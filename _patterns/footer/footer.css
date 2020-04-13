@@ -4,4 +4,9 @@
 
 .footer-a {
   display: block;
+  color: white;
+}
+
+a {
+  color: white;
 }
