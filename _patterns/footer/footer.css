@@ -1,16 +1,35 @@
-.footer-left {
+.footer {
+  position: relative;
+  width: 1024px;
+  height: 200px;
+  background: #f5f5f5;
+  margin: 0 auto;
+  top: 1255px;
+  border-top: 1px solid #d8d8d8;
+}
+
+.bottom-header {
+  font-size: 14px;
+  line-height: 20px;
+  position: relative;
+  color: #333;
+  text-transform: uppercase;
+}
+
+.bottom-column {
+  float:left;
+  display: inline;
+  font-size: 15px;
+  width: 105px;
+  height: 160px;
+  padding: 20px;
+}
+
+.bottom-column a {
+  text-decoration: none;
+  color: #6a6a6a;
   float: left;
-}
-
-.footer-right {
-  float: right;
-}
-
-.footer-a {
-  display: block;
-  color: white;
-}
-
-a {
-  color: white;
+  left: 50px;
+  padding-top: 10px;
+  font-size: 13px;
 }
