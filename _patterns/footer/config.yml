@@ -1,8 +1,8 @@
-title: "Footer"
+title: "Homepage"
 description: |
-  Footer: the footer belongs at the bottom of the website and has easy access to links and information.
+  The homepage has everything to attract a viewer to stay on the website. It needs a navigations system, call to action (to get viewers to dig deeper into the website or to purchase something), attractive content, and a footer.
 
 patterns:
-  footer:
-    title: "Footer"
+  homepage:
+    title: "Homepage"
     description: |
