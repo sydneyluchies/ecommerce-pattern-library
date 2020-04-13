@@ -2,6 +2,10 @@
   float: left;
 }
 
+.footer-right {
+  float: right;
+}
+
 .footer-a {
   display: block;
   color: white;
