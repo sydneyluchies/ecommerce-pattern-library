@@ -1,4 +1,10 @@
+.footer-left {
+  float: left;
+}
 
+.footer-a {
+  display: block;
+}
 
 .home {
   text-decoration: none;
