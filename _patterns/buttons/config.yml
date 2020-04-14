@@ -13,11 +13,6 @@ patterns:
     description: |
       The ghost button is specifically for banners, where it will be placed in front of busy images.
     background: "--color-primary-light"
-  icon-button:
-    title: "Icon Button"
-    description: |
-      The icon button allows an icon to be seen for the action required.
-  light-small:
     fields:
       - name: text
         type: string
@@ -25,3 +20,7 @@ patterns:
       - name: url
         type: url
         example: "/products/"
+  icon-button:
+    title: "Icon Button"
+    description: |
+      The icon button allows an icon to be seen for the action required.
