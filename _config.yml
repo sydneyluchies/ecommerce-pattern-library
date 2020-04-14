@@ -1,6 +1,17 @@
 permalink: pretty
 theme: jekyll_patternbot
 patternbot:
+  call-to-action:
+    fields: |
+      - name: heading
+        type: string
+        example: "Delicious, amazing, coffee"
+      - name: text
+        type: string
+        example: "You must get your hands on this coffee!!!"
+  layouts:
+    default: |
+      The default layout should be used for almost every page, it includes the website's primary header and footer.
   title: "Coffee & Tea Essentials"
   description: The coffee is good.
   rationales:
