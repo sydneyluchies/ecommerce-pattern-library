@@ -4,7 +4,7 @@
     <h1 class="call-to-action-title yotta">{{include.heading}}</h1>
     <p class="call-to-action-info">{{include.text}}</p>
     {% if include.button_url %}
-      {% pattern buttons/ghost text="See collection" url="/products/" %}
+      {% pattern buttons/ghost text="include.button_text" url="url=include.button_url" %}
     {% endif %}
   </div>
 </figure>
