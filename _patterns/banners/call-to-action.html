@@ -1,8 +1,10 @@
 <figure class="flex">
-  <img class="img-flex" src="/images/coffee/coffee-1.jpg" alt="">
+  <img class="img-flex" src="/images/coffee/coffee-1.jpg{{include.icon}}" alt="">
   <div class="call-text">
     <h1 class="call-to-action-title yotta">{{include.heading}}</h1>
     <p class="call-to-action-info">{{include.text}}</p>
-    {% pattern buttons/ghost %}
+    {% if include.button_url %}
+      {% pattern buttons/light-small text="See collection" url="/products/" %}
+    {% endif %}
   </div>
 </figure>

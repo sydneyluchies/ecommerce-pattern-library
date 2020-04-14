@@ -17,3 +17,11 @@ patterns:
     title: "Icon Button"
     description: |
       The icon button allows an icon to be seen for the action required.
+  light-small:
+    fields:
+      - name: text
+        type: string
+        example: "See collection"
+      - name: url
+        type: url
+        example: "/products/"
