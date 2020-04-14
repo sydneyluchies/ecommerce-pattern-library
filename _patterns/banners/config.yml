@@ -11,11 +11,14 @@ patterns:
     title: "Top of Page"
     description: |
       The top-of-page banner is good for quick descriptions, or company mottos that adds colour and depth.
-  call-to-action:
-      fields: |
-        - name: heading
-          type: string
-          example: "Delicious, amazing, coffee"
-        - name: text
-          type: string
-          example: "You must get your hands on this coffee!!!"
+  banner:
+    title: "Call to Action"
+    description: |
+      The call to action banner is to grad the viewers attention and is meant to get them to do something; click the button that is provided (for this one, the shop button).
+    fields: |
+      - name: heading
+        type: string
+        example: "Delicious, amazing, coffee"
+      - name: text
+        type: string
+        example: "You must get your hands on this coffee!!!"
