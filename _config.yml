@@ -23,3 +23,6 @@ patternbot:
       Was chosen because it's easy on the eyes and a very elegant colour.
     colors.secondary: |
       Was chosen because it's neutral and goes with primary colour.
+  collections:
+    products:
+      output: true
